@@ -1,0 +1,1 @@
+This is an simple mood calender. Record your mood each day. 
